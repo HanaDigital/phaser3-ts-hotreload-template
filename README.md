@@ -1,4 +1,4 @@
-# Phaser 3 template with Typescript, Snowpack (hot reload) for VSCode
+# Phaser 3 template with Typescript (NodeJS) and Snowpack (hot reload) for VSCode
 
 This is a template project for quickly getting started with Phaser 3 using Typescript, preferably on VSCode.
 **Hot Reloading** is supported with compile times **at under 1sec**.
